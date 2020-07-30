@@ -1,5 +1,121 @@
+.c4{
+  width: 100%;
+}
+
+.c3{
+  width: 100%;
+}
+
+.c2{
+  width: 100%;
+}
+
+.c1{
+  width: 100%;
+}
+
+.inputtag{
+  padding: 20px;
+  border-radius: 50px;
+  width: 90%;
+  border-collapse: collapse;
+  padding-left: 30px;
+  border: 1px solid;
+  outline: none;
+}
+
+.inputtag:focus {
+  border: 2px solid #4527A4;
+}
+
+.btnbtn{
+  background-color: #4527A4;
+  border: 1px solid white;
+  border-radius: 10%;
+  padding: 20px;
+  color: white;
+  font-size: large;
+}
+
+.div-bg1{
+  background-image: url('http://azim.commonsupport.com/Appway/images/icons/image-shap-2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.div-bg{
+  background-image: url('http://azim.commonsupport.com/Appway/images/icons/image-shap-1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.d1{
+  margin-top: 70px;
+  color: black !important;
+  margin-bottom: 50px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.papershadow{
+  box-shadow: 6px 6px 10px 10px #efefefef;
+  margin: 5px;
+  padding: 10px 8px;
+  height: 250px;
+  text-align: left;
+}
+
+.graypara{
+  color: gray;
+}
+
+.mobile11{
+  display: inline;
+}
+
+.pic1{
+  margin-right: -28px;
+}
+
+.pic2{
+  margin-left: 0px;
+}
+
+.mpic-img{
+  display: flex;
+}
+
+.logo{
+  margin-left: 60px;
+}
+
+.mobilediv1{
+  margin-top: 0px;
+}
+
+.mobileh1{
+  margin-top: 0px;
+  font-size: 40px;
+}
+
+.mainBlankChild{
+  height: 60px;
+}
+
+.mainBack{
+  background-image: url('http://azim.commonsupport.com/Appway/images/icons/banner-1.png');
+  background-repeat: no-repeat;
+  color: white;
+  /* text-align: left; */
+  background-size: cover;
+  background-position: center bottom;
+  overflow: hidden;
+}
+
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .App-logo {

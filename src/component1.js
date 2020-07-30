@@ -67,7 +67,7 @@ function Component1(){
                     </Grid>
 
                     <Grid sm={8}>
-                    <h1>Amazing Features</h1>
+                    <h1>Amazing Features.</h1>
                     <p className='graypara'>Cumque adipisci anim quisque provident posuere blandit accumsan delectus quam quos interdum sociosqu.</p>
                     <br />
                     <Grid container>
